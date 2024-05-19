@@ -63,6 +63,16 @@
   reg: VR3UKZKW.*
   max_elec_consumption: 70
   max_fuel_consumption: 0
+
+- !ElecModel
+  name: e308 2024
+  battery_power: 50.8
+  fuel_capacity: 0
+  abrp_name: peugeot:e308:23:54
+  reg: VR3FNZKWZP.*
+  max_elec_consumption: 70
+  max_fuel_consumption: 0
+
 - !ElecModel
   name: e-Spacetourer
   battery_power: 46
